@@ -1,4 +1,5 @@
-# PakPMICS2014HH
+# PakPMICS2014HH: Multiple Indicator Cluster Survey (MICS) 2014 Household Questionnaire Data for Punjab, Pakistan
+
 ## Introduction
 
 **PakPMICS2014HH** Provides data set and function for exploration of Multiple Indicator Cluster Survey 2014 Household questionnaire data for Punjab, Pakistan.
